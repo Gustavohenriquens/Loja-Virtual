@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaVirtualEstagio", "LojaVirtualEstagio\LojaVirtualEstagio.csproj", "{68519512-DBD4-4E69-B704-66D832A0AD46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaVirtual.Models", "LojaVirtual.Models\LojaVirtual.Models.csproj", "{1CB7DA4A-519F-4D9D-8718-DE713C640E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68519512-DBD4-4E69-B704-66D832A0AD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68519512-DBD4-4E69-B704-66D832A0AD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68519512-DBD4-4E69-B704-66D832A0AD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68519512-DBD4-4E69-B704-66D832A0AD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB7DA4A-519F-4D9D-8718-DE713C640E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB7DA4A-519F-4D9D-8718-DE713C640E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB7DA4A-519F-4D9D-8718-DE713C640E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB7DA4A-519F-4D9D-8718-DE713C640E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27D626D6-4648-4718-B954-9CCDA60C59FA}
+	EndGlobalSection
+EndGlobal

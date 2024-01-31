@@ -1,0 +1,6 @@
+@LojaVirtualEstagio_HostAddress = http://localhost:5082
+
+GET {{LojaVirtualEstagio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
